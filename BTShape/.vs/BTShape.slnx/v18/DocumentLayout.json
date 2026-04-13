@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\source\\repos\\BTShape\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F1768CB7-450F-FB8D-AB96-893AC33514AC}|BTShape\\BTShape.csproj|c:\\users\\asus\\source\\repos\\btshape\\btshape\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1768CB7-450F-FB8D-AB96-893AC33514AC}|BTShape\\BTShape.csproj|solutionrelative:btshape\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1768CB7-450F-FB8D-AB96-893AC33514AC}|BTShape\\BTShape.csproj|c:\\users\\asus\\source\\repos\\btshape\\btshape\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1768CB7-450F-FB8D-AB96-893AC33514AC}|BTShape\\BTShape.csproj|solutionrelative:btshape\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1768CB7-450F-FB8D-AB96-893AC33514AC}|BTShape\\BTShape.csproj|c:\\users\\asus\\source\\repos\\btshape\\btshape\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1768CB7-450F-FB8D-AB96-893AC33514AC}|BTShape\\BTShape.csproj|solutionrelative:btshape\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1768CB7-450F-FB8D-AB96-893AC33514AC}|BTShape\\BTShape.csproj|c:\\users\\asus\\source\\repos\\btshape\\btshape\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1768CB7-450F-FB8D-AB96-893AC33514AC}|BTShape\\BTShape.csproj|solutionrelative:btshape\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1768CB7-450F-FB8D-AB96-893AC33514AC}|BTShape\\BTShape.csproj|c:\\users\\asus\\source\\repos\\btshape\\btshape\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1768CB7-450F-FB8D-AB96-893AC33514AC}|BTShape\\BTShape.csproj|solutionrelative:btshape\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1768CB7-450F-FB8D-AB96-893AC33514AC}|BTShape\\BTShape.csproj|c:\\users\\asus\\source\\repos\\btshape\\btshape\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1768CB7-450F-FB8D-AB96-893AC33514AC}|BTShape\\BTShape.csproj|solutionrelative:btshape\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BTShape\\BTShape\\Program.cs",
+              "RelativeDocumentMoniker": "BTShape\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\BTShape\\BTShape\\Program.cs",
+              "RelativeToolTip": "BTShape\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T07:34:29.239Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BTShape\\BTShape\\Shape.cs",
+              "RelativeDocumentMoniker": "BTShape\\Shape.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\BTShape\\BTShape\\Shape.cs",
+              "RelativeToolTip": "BTShape\\Shape.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T07:34:56.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BTShape\\BTShape\\Rectangle.cs",
+              "RelativeDocumentMoniker": "BTShape\\Rectangle.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\BTShape\\BTShape\\Rectangle.cs",
+              "RelativeToolTip": "BTShape\\Rectangle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T07:44:55.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Square.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BTShape\\BTShape\\Square.cs",
+              "RelativeDocumentMoniker": "BTShape\\Square.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\BTShape\\BTShape\\Square.cs",
+              "RelativeToolTip": "BTShape\\Square.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T07:48:13.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BTShape\\BTShape\\Circle.cs",
+              "RelativeDocumentMoniker": "BTShape\\Circle.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\BTShape\\BTShape\\Circle.cs",
+              "RelativeToolTip": "BTShape\\Circle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T07:51:25.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Triangle.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BTShape\\BTShape\\Triangle.cs",
+              "RelativeDocumentMoniker": "BTShape\\Triangle.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\BTShape\\BTShape\\Triangle.cs",
+              "RelativeToolTip": "BTShape\\Triangle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T07:54:43.409Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

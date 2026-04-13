@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\source\\repos\\BTStack\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{69932821-8AB8-4311-9592-0A204F389D5D}|BTStack\\BTStack.csproj|c:\\users\\asus\\source\\repos\\btstack\\btstack\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69932821-8AB8-4311-9592-0A204F389D5D}|BTStack\\BTStack.csproj|solutionrelative:btstack\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69932821-8AB8-4311-9592-0A204F389D5D}|BTStack\\BTStack.csproj|c:\\users\\asus\\source\\repos\\btstack\\btstack\\stack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69932821-8AB8-4311-9592-0A204F389D5D}|BTStack\\BTStack.csproj|solutionrelative:btstack\\stack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69932821-8AB8-4311-9592-0A204F389D5D}|BTStack\\BTStack.csproj|c:\\users\\asus\\source\\repos\\btstack\\btstack\\hexastack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69932821-8AB8-4311-9592-0A204F389D5D}|BTStack\\BTStack.csproj|solutionrelative:btstack\\hexastack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69932821-8AB8-4311-9592-0A204F389D5D}|BTStack\\BTStack.csproj|c:\\users\\asus\\source\\repos\\btstack\\btstack\\primestack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69932821-8AB8-4311-9592-0A204F389D5D}|BTStack\\BTStack.csproj|solutionrelative:btstack\\primestack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BTStack\\BTStack\\Program.cs",
+              "RelativeDocumentMoniker": "BTStack\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\BTStack\\BTStack\\Program.cs",
+              "RelativeToolTip": "BTStack\\Program.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwC4AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T07:29:32.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Stack.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BTStack\\BTStack\\Stack.cs",
+              "RelativeDocumentMoniker": "BTStack\\Stack.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\BTStack\\BTStack\\Stack.cs",
+              "RelativeToolTip": "BTStack\\Stack.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T07:29:19.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HexaStack.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BTStack\\BTStack\\HexaStack.cs",
+              "RelativeDocumentMoniker": "BTStack\\HexaStack.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\BTStack\\BTStack\\HexaStack.cs",
+              "RelativeToolTip": "BTStack\\HexaStack.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T07:28:03.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PrimeStack.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BTStack\\BTStack\\PrimeStack.cs",
+              "RelativeDocumentMoniker": "BTStack\\PrimeStack.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\BTStack\\BTStack\\PrimeStack.cs",
+              "RelativeToolTip": "BTStack\\PrimeStack.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T07:26:22.742Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

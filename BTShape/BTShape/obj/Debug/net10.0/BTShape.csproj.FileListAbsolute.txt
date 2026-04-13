@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\BTShape\BTShape\bin\Debug\net10.0\BTShape.exe
+C:\Users\ASUS\source\repos\BTShape\BTShape\bin\Debug\net10.0\BTShape.deps.json
+C:\Users\ASUS\source\repos\BTShape\BTShape\bin\Debug\net10.0\BTShape.runtimeconfig.json
+C:\Users\ASUS\source\repos\BTShape\BTShape\bin\Debug\net10.0\BTShape.dll
+C:\Users\ASUS\source\repos\BTShape\BTShape\bin\Debug\net10.0\BTShape.pdb
+C:\Users\ASUS\source\repos\BTShape\BTShape\obj\Debug\net10.0\BTShape.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\BTShape\BTShape\obj\Debug\net10.0\BTShape.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\BTShape\BTShape\obj\Debug\net10.0\BTShape.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\BTShape\BTShape\obj\Debug\net10.0\BTShape.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\BTShape\BTShape\obj\Debug\net10.0\BTShape.dll
+C:\Users\ASUS\source\repos\BTShape\BTShape\obj\Debug\net10.0\refint\BTShape.dll
+C:\Users\ASUS\source\repos\BTShape\BTShape\obj\Debug\net10.0\BTShape.pdb
+C:\Users\ASUS\source\repos\BTShape\BTShape\obj\Debug\net10.0\BTShape.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\BTShape\BTShape\obj\Debug\net10.0\ref\BTShape.dll
