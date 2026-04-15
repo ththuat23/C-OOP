@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\Bai1-1\Bai1-1\bin\Debug\net10.0\Bai1-1.exe
+C:\Users\ASUS\source\repos\Bai1-1\Bai1-1\bin\Debug\net10.0\Bai1-1.deps.json
+C:\Users\ASUS\source\repos\Bai1-1\Bai1-1\bin\Debug\net10.0\Bai1-1.runtimeconfig.json
+C:\Users\ASUS\source\repos\Bai1-1\Bai1-1\bin\Debug\net10.0\Bai1-1.dll
+C:\Users\ASUS\source\repos\Bai1-1\Bai1-1\bin\Debug\net10.0\Bai1-1.pdb
+C:\Users\ASUS\source\repos\Bai1-1\Bai1-1\obj\Debug\net10.0\Bai1-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\Bai1-1\Bai1-1\obj\Debug\net10.0\Bai1-1.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\Bai1-1\Bai1-1\obj\Debug\net10.0\Bai1-1.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\Bai1-1\Bai1-1\obj\Debug\net10.0\Bai1-1.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Bai1-1\Bai1-1\obj\Debug\net10.0\Bai1-1.dll
+C:\Users\ASUS\source\repos\Bai1-1\Bai1-1\obj\Debug\net10.0\refint\Bai1-1.dll
+C:\Users\ASUS\source\repos\Bai1-1\Bai1-1\obj\Debug\net10.0\Bai1-1.pdb
+C:\Users\ASUS\source\repos\Bai1-1\Bai1-1\obj\Debug\net10.0\Bai1-1.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\Bai1-1\Bai1-1\obj\Debug\net10.0\ref\Bai1-1.dll

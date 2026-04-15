@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\C-OOP\\Bai1-4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{47A0A312-1CF8-489F-BF93-CA9A244680BE}|Bai1-4\\Bai1-4.csproj|c:\\users\\asus\\onedrive\\ta\u0300i li\u00EA\u0323u\\github\\c-oop\\bai1-4\\bai1-4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47A0A312-1CF8-489F-BF93-CA9A244680BE}|Bai1-4\\Bai1-4.csproj|solutionrelative:bai1-4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\C-OOP\\Bai1-4\\Bai1-4\\Program.cs",
+              "RelativeDocumentMoniker": "Bai1-4\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\C-OOP\\Bai1-4\\Bai1-4\\Program.cs",
+              "RelativeToolTip": "Bai1-4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T14:08:43.296Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
