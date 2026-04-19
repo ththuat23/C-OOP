@@ -1,0 +1,15 @@
+c:\Users\ASUS\OneDrive\Tài liệu\GitHub\C-OOP\OnTapGiuaKi\obj\Debug\net10.0\OnTapGiuaKi.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\ASUS\OneDrive\Tài liệu\GitHub\C-OOP\OnTapGiuaKi\obj\Debug\net10.0\OnTapGiuaKi.AssemblyInfoInputs.cache
+c:\Users\ASUS\OneDrive\Tài liệu\GitHub\C-OOP\OnTapGiuaKi\obj\Debug\net10.0\OnTapGiuaKi.AssemblyInfo.cs
+c:\Users\ASUS\OneDrive\Tài liệu\GitHub\C-OOP\OnTapGiuaKi\obj\Debug\net10.0\OnTapGiuaKi.csproj.CoreCompileInputs.cache
+c:\Users\ASUS\OneDrive\Tài liệu\GitHub\C-OOP\OnTapGiuaKi\obj\Debug\net10.0\OnTapGiuaKi.sourcelink.json
+c:\Users\ASUS\OneDrive\Tài liệu\GitHub\C-OOP\OnTapGiuaKi\bin\Debug\net10.0\OnTapGiuaKi.exe
+c:\Users\ASUS\OneDrive\Tài liệu\GitHub\C-OOP\OnTapGiuaKi\bin\Debug\net10.0\OnTapGiuaKi.deps.json
+c:\Users\ASUS\OneDrive\Tài liệu\GitHub\C-OOP\OnTapGiuaKi\bin\Debug\net10.0\OnTapGiuaKi.runtimeconfig.json
+c:\Users\ASUS\OneDrive\Tài liệu\GitHub\C-OOP\OnTapGiuaKi\bin\Debug\net10.0\OnTapGiuaKi.dll
+c:\Users\ASUS\OneDrive\Tài liệu\GitHub\C-OOP\OnTapGiuaKi\bin\Debug\net10.0\OnTapGiuaKi.pdb
+c:\Users\ASUS\OneDrive\Tài liệu\GitHub\C-OOP\OnTapGiuaKi\obj\Debug\net10.0\OnTapGiuaKi.dll
+c:\Users\ASUS\OneDrive\Tài liệu\GitHub\C-OOP\OnTapGiuaKi\obj\Debug\net10.0\refint\OnTapGiuaKi.dll
+c:\Users\ASUS\OneDrive\Tài liệu\GitHub\C-OOP\OnTapGiuaKi\obj\Debug\net10.0\OnTapGiuaKi.pdb
+c:\Users\ASUS\OneDrive\Tài liệu\GitHub\C-OOP\OnTapGiuaKi\obj\Debug\net10.0\OnTapGiuaKi.genruntimeconfig.cache
+c:\Users\ASUS\OneDrive\Tài liệu\GitHub\C-OOP\OnTapGiuaKi\obj\Debug\net10.0\ref\OnTapGiuaKi.dll
